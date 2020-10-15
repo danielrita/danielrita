@@ -1,5 +1,7 @@
-### Hi there 👋
+![Banner](https://github.com/00CruciaL00/00CruciaL00/blob/main/download.png)
 
+
+### Hi there 👋
 
 - 🔭 I’m currently working on something promising!
 - 🌱 I’m currently learning all I can
