@@ -2,7 +2,7 @@
 
 <div align="center">
 <br>
-Hi, I'm Daniel (aka <strong>CruciaL</strong>), a passionate self-taught developer from Portugal <img alt="Portugal", width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"> .
+Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught developer from Portugal <img alt="Portugal", width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"> .
 <br>
 <hr>      
 <h4> Current Status </h4>     
