@@ -1,3 +1,5 @@
+![Banner](https://github.com/00CruciaL00/00CruciaL00/blob/main/assets/banner/Banner.png)
+
 <div align="center">
 <h2> Hello there 👋, I'm CruciaL </h2>
 <br>
