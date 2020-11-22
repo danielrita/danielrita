@@ -5,10 +5,10 @@ Hi, I'm Daniel (aka CruciaL), a passionate self-taught developer from Portugal <
 <br>
 <hr>      
 <h4> Current Status </h4>     
-- 🔭 I’m currently working on <strong>something promising!</strong>
-- 🌱 I’m currently learning all I can
-- 👯 I’m looking to collaborate on what I can help.
-- 💬 Ask me about space, earth, life.
+- 🔭 I’m currently working on <strong>something promising!</strong><br>
+- 🌱 I’m currently learning all I can<br>
+- 👯 I’m looking to collaborate on what I can help.<br>
+- 💬 Ask me about space, earth, life.<br>
 - ⚡ Fun fact: <strong>Banging your head against a wall for one hour burns 150 calories.</strong> 
 <hr>
 <h4> Contact Me </h4>
