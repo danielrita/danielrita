@@ -1,7 +1,6 @@
 ![Banner](https://github.com/00CruciaL00/00CruciaL00/blob/main/assets/banner/Banner.png)
 
 <div align="center">
-<h2> Hello there 👋, I'm CruciaL </h2>
 <br>
 Hi, I'm Daniel (aka <strong>CruciaL</strong>), a passionate self-taught developer from Portugal <img alt="Portugal", width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"> .
 <br>
