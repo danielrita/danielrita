@@ -23,6 +23,6 @@ Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught develope
 <hr>
 <h4> <i> GitHub Stats </i> </h4>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=00CruciaL00&show_icons=true&hide_border=true&theme=dark&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=00CruciaL00&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
 <br>
 </div>
