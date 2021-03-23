@@ -21,7 +21,7 @@ Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught develope
 <br>
 <img alt="Steam", width="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png"> <i>Steam</i> -     <a href="https://steamcommunity.com/id/CruciaL_Official/">CruciaL</a>
 <hr>
-<h4> <i> GitHub Stats </i> </h4>
+<h4> GitHub Stats </h4>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=00CruciaL00&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
 <br>
