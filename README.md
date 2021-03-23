@@ -25,4 +25,9 @@ Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught develope
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=00CruciaL00&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
 <br>
+<hr>
+<h4>Languages & Tools</h4>
+<br>
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/768px-Atom_1.0_icon.png">&nbsp;&nbsp;<img width="30px" src="https://discord.js.org/static/logo-square.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;<img width="30px" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">&nbsp;&nbsp;<img width="30px" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;<img width="30px" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">&nbsp;&nbsp;
+<br>
 </div>
