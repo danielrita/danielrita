@@ -28,6 +28,9 @@ Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught develope
 <hr>
 <h4>Languages & Tools</h4>
 <br>
-<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/768px-Atom_1.0_icon.png">&nbsp;&nbsp;<img width="30px" src="https://discord.js.org/static/logo-square.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;<img width="30px" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">&nbsp;&nbsp;<img width="30px" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;<img width="30px" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">&nbsp;&nbsp;
-<br>
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/768px-Atom_1.0_icon.png">&nbsp;&nbsp;<img width="30px" src="https://discord.js.org/static/logo-square.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;<img width="30px" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">&nbsp;&nbsp;<img width="30px" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;<img width="30px" src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png
+<br>">&nbsp;&nbsp;<img width="30px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
+  
+  
+  
 </div>
