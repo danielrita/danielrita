@@ -36,9 +36,5 @@ Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught develope
 <img width="30px" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">&nbsp;&nbsp;<img width="30px" src="https://discordjs.guide/meta-image.png">&nbsp;&nbsp;
 <img width="30px" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;
 <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
-  
-  
-  
-  
-  https://icones.pro/wp-content/uploads/2021/05/icone-html-noir.png
+
 </div>
