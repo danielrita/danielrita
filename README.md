@@ -28,8 +28,17 @@ Hi, I'm Daniel <strong>(aka CruciaL)</strong>, a passionate self-taught develope
 <hr>
 <h4>Languages & Tools</h4>
 <br>
-<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/768px-Atom_1.0_icon.png">&nbsp;&nbsp;<img width="30px" src="https://discord.js.org/static/logo-square.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;<img width="30px" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">&nbsp;&nbsp;<img width="30px" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/768px-Atom_1.0_icon.png">&nbsp;&nbsp;
+<img width="30px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-noir.png">&nbsp;&nbsp;
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png">&nbsp;&nbsp;
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">&nbsp;&nbsp;
+<img width="30px" src="https://i0.wp.com/codigosimples.net/wp-content/uploads/2014/12/bootstrap-logo-e1419636157236.png?fit=250%2C251&ssl=1">&nbsp;&nbsp;
+<img width="30px" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">&nbsp;&nbsp;<img width="30px" src="https://discordjs.guide/meta-image.png">&nbsp;&nbsp;
+<img width="30px" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png">
   
   
   
+  
+  https://icones.pro/wp-content/uploads/2021/05/icone-html-noir.png
 </div>
